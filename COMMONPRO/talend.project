@@ -1296,4 +1296,5 @@
   <TalendProperties:ProjectReference xmi:id="_BXk-EjS7Eee-7oUYhhmA0A" project="_zi5aYXMkEea2QtDRiJ4O5A" branch="master" referencedBranch="master">
     <referencedProject href="../REFERENCEPRO/talend.project#projectReference"/>
   </TalendProperties:ProjectReference>
+  <TalendProperties:User xmi:id="_KTxx4Do-EeeKoZF4YiCMEA" login="Trigger-Runner" type="MDM"/>
 </xmi:XMI>
